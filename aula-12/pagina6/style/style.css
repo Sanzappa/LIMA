@@ -22,7 +22,8 @@ html, body{
     border-radius: 50%;
     background-color: rgb(35, 197, 35);
     margin-left: 70px;
-    margin-top: 70px;
+    margin-bottom: 40px;
+    margin-top: 40px;
 }
 .blue{
     width: 170px;
